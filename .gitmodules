@@ -5,3 +5,6 @@
 [submodule "MFF"]
 	path = MFF
 	url = https://github.com/nihattak/mff
+[submodule "T1FF"]
+	path = T1FF
+	url = https://github.com/cran/T1FF
